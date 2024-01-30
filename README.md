@@ -2,9 +2,7 @@
 
 ## Goals for 2024
 
-- Deep learn Typescript, React and NextJS
-- Restart to Learning Golang
-- DevOps, Cloud fundamentals
+- Backend: Zero to Hero (with go or node.js)
 
 
 ## Path
